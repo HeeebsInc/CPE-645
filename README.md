@@ -1,1 +1,1 @@
-# CPE-645
+# CPE-645 - Image Processing and Computer Vision
